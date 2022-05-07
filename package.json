@@ -1,0 +1,12 @@
+{
+  "name": "googlemaps_nodejs",
+  "version": "1.0.0",
+  "description": "Criar uma API que realiza um Web Scraping no Google Maps utilizando inputs do usuário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alan Graton",
+  "license": "ISC"
+}
