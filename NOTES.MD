@@ -17,3 +17,10 @@
 ## Pré-requisitos
 
 - Instalar **Puppeteer** [`X`]
+
+## Anotações sobre o `Puppeteer`
+
+```JavaScript
+    // A janela do navegador fica visível ao ser carregada
+    const browser = await puppeteer.launch({ headless: false });
+```
